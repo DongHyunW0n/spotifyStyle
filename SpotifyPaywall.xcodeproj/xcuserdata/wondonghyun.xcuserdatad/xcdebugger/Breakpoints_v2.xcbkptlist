@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DE989071-CF88-4B5E-834A-8E4493068312"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "07DFC377-055A-41EC-890E-E150D6721F08"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpotifyPaywall/BannerCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "BannerCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "07DFC377-055A-41EC-890E-E150D6721F08 - 8b76bf102d0b7765"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SpotifyPaywall.BannerCell.descriptLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "SpotifyPaywall"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wondonghyun/Desktop/06_03-SpotifyPaywall/starter/06_03-SpotifyPaywall/SpotifyPaywall/BannerCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "07DFC377-055A-41EC-890E-E150D6721F08 - b754f1a3eb311351"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SpotifyPaywall.BannerCell.descriptLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "SpotifyPaywall"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wondonghyun/Desktop/06_03-SpotifyPaywall/starter/06_03-SpotifyPaywall/SpotifyPaywall/BannerCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "07DFC377-055A-41EC-890E-E150D6721F08 - 7b727f8a7cba0066"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SpotifyPaywall.BannerCell.descriptLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "SpotifyPaywall"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wondonghyun/Desktop/06_03-SpotifyPaywall/starter/06_03-SpotifyPaywall/SpotifyPaywall/BannerCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "07DFC377-055A-41EC-890E-E150D6721F08 - 5ecbf9c26113e704"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SpotifyPaywall.BannerCell.descriptLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "SpotifyPaywall"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wondonghyun/Desktop/06_03-SpotifyPaywall/starter/06_03-SpotifyPaywall/SpotifyPaywall/BannerCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "07DFC377-055A-41EC-890E-E150D6721F08 - 7bd7065cf915464a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SpotifyPaywall.BannerCell.init(frame: __C.CGRect) -&gt; SpotifyPaywall.BannerCell"
+                  moduleName = "SpotifyPaywall"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wondonghyun/Desktop/06_03-SpotifyPaywall/starter/06_03-SpotifyPaywall/SpotifyPaywall/BannerCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "07DFC377-055A-41EC-890E-E150D6721F08 - 7be901521ef573ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SpotifyPaywall.BannerCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;SpotifyPaywall.BannerCell&gt;"
+                  moduleName = "SpotifyPaywall"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wondonghyun/Desktop/06_03-SpotifyPaywall/starter/06_03-SpotifyPaywall/SpotifyPaywall/BannerCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "108">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C91CE302-53E9-42A3-BBF0-B0F92A38D1FD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpotifyPaywall/PaywallViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "PaywallViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "C91CE302-53E9-42A3-BBF0-B0F92A38D1FD - a86e56a3bcbe02b7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SpotifyPaywall.PaywallViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; SpotifyPaywall.PaywallViewController"
+                  moduleName = "SpotifyPaywall"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wondonghyun/Desktop/06_03-SpotifyPaywall/starter/06_03-SpotifyPaywall/SpotifyPaywall/PaywallViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "496">
+               </Location>
+               <Location
+                  uuid = "C91CE302-53E9-42A3-BBF0-B0F92A38D1FD - 5b9833dc61316475"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SpotifyPaywall.PaywallViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;SpotifyPaywall.PaywallViewController&gt;"
+                  moduleName = "SpotifyPaywall"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wondonghyun/Desktop/06_03-SpotifyPaywall/starter/06_03-SpotifyPaywall/SpotifyPaywall/PaywallViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "472">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
